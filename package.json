@@ -23,6 +23,8 @@
     "yarn": ">=1.22.19"
   },
   "standard": {
-    "env": ["jest"]
+    "env": [
+      "jest"
+    ]
   }
 }
